@@ -7,7 +7,7 @@ Here, I showcase my work in **Embedded Systems** and **Robotics**, completed dur
 
 ## 🔹 Embedded Projects
 ARM Cortex-M | Bare-Metal | RTOS | Driver Development | Debugging  
-[Embedded_Projects Repository](link_to_repo)
+[Embedded_Projects Repository](https://github.com/BrenzingerLuca/Embedded-Projects)
 
 - Bare-Metal LED Blink – Startup code, GPIO register access
 - Fault Handler Debugger – HardFault analysis, UART debugging

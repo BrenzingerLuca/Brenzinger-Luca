@@ -21,7 +21,7 @@ ARM Cortex-M | Bare-Metal | RTOS | Driver Development | Debugging
 
 ## 🔹 Robotics Projects
 Robotics | Sensors | Control | ROS2 | Autonomous Systems  
-[Robotics_Projects Repository](link_to_repo)
+[Robotics_Projects Repository](https://github.com/BrenzingerLuca/Robotics-Projects)
 
 - Line Follower Robot – Sensor integration, motor control, PID
 - Autonomous Maze Solver – Sensor fusion, algorithms, C++ implementation
